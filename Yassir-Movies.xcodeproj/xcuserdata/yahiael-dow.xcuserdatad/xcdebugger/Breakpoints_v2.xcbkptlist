@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "00DD6C55-0EE9-465C-9C10-5D2A926FEBB4"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1E38705D-88D9-446E-AB01-C743D2C818E9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Yassir-Movies/Modules/Services/MoviesService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "getMovieDetails(movieId:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "31AB26B5-5FC1-4BCC-9B1B-1AED00105DAE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Yassir-Movies/Modules/Services/MoviesService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "getMovieDetails(movieId:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4394A8C1-FA4C-4C6F-B95F-84391ECACDB3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Yassir-Movies/Modules/Services/MoviesService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "getMovieDetails(movieId:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E6ADFA6C-1667-4865-9CF8-B61E4B75CB4F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Yassir-Movies/Modules/Services/MoviesService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "getMovieDetails(movieId:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E6ADFA6C-1667-4865-9CF8-B61E4B75CB4F - 64c126cde7583a6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Yassir_Movies.MoviesService.getMovieDetails(movieId: Swift.Int) -&gt; ()"
+                  moduleName = "Yassir-Movies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yahiael-dow/Desktop/Yassir-Movies/Yassir-Movies/Modules/Services/MoviesService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "707">
+               </Location>
+               <Location
+                  uuid = "E6ADFA6C-1667-4865-9CF8-B61E4B75CB4F - baea15cee79611c3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 ((result: Swift.Result&lt;Swift.Optional&lt;Swift.Decodable&gt;, Swift.Error&gt;, statusCode: Swift.Optional&lt;Swift.Int&gt;)) -&gt; () in Yassir_Movies.MoviesService.getMovieDetails(movieId: Swift.Int) -&gt; ()"
+                  moduleName = "Yassir-Movies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yahiael-dow/Desktop/Yassir-Movies/Yassir-Movies/Modules/Services/MoviesService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "118">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E0CCB8AC-ADDA-4586-BE52-B0745395EB8E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Yassir-Movies/Network/Modules/Services/MoviesService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "getMovieDetails(movieId:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E0CCB8AC-ADDA-4586-BE52-B0745395EB8E - b41dcf87b3994487"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 ((result: Swift.Result&lt;Swift.Optional&lt;Swift.Decodable&gt;, Swift.Error&gt;, statusCode: Swift.Optional&lt;Swift.Int&gt;)) -&gt; () in Yassir_Movies.MoviesService.getMovieDetails(movieId: Swift.Int) -&gt; ()"
+                  moduleName = "Yassir-Movies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yahiael-dow/Desktop/Yassir-Movies/Yassir-Movies/Network/Modules/Services/MoviesService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "163">
+               </Location>
+               <Location
+                  uuid = "E0CCB8AC-ADDA-4586-BE52-B0745395EB8E - b41dcf87b3994487"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 ((result: Swift.Result&lt;Swift.Optional&lt;Swift.Decodable&gt;, Swift.Error&gt;, statusCode: Swift.Optional&lt;Swift.Int&gt;)) -&gt; () in Yassir_Movies.MoviesService.getMovieDetails(movieId: Swift.Int) -&gt; ()"
+                  moduleName = "Yassir-Movies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yahiael-dow/Desktop/Yassir-Movies/Yassir-Movies/Network/Modules/Services/MoviesService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "208">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4063EC50-0C79-440D-A694-080F99269F32"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Yassir-Movies/Network/Modules/Services/MoviesService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "getMovieDetails(movieId:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DBF67E05-E9EC-4A0A-8922-93E8B08B0600"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Yassir-Movies/Network/Modules/Services/MoviesService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "getMovieDetails(movieId:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
