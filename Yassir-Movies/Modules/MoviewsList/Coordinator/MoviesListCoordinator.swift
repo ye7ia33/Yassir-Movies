@@ -18,6 +18,5 @@ class MoviesListCoordinator: Coordinator {
     func start() {
         let vc = MoviesListViewController()
         navigationController.pushViewController(vc, animated: false)
-        self.add(coordinator: MoviesListCoordinator)
     }
 }
